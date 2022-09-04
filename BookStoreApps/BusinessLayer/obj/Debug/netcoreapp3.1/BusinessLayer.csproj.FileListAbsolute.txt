@@ -1,0 +1,15 @@
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\bin\Debug\netcoreapp3.1\DatabaseLayer.dll
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\bin\Debug\netcoreapp3.1\DatabaseLayer.pdb
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

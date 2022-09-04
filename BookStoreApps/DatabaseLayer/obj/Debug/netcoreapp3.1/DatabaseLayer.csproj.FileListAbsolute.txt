@@ -1,0 +1,10 @@
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\bin\Debug\netcoreapp3.1\DatabaseLayer.deps.json
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\bin\Debug\netcoreapp3.1\DatabaseLayer.dll
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\bin\Debug\netcoreapp3.1\DatabaseLayer.pdb
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\obj\Debug\netcoreapp3.1\DatabaseLayer.csproj.AssemblyReference.cache
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\obj\Debug\netcoreapp3.1\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\obj\Debug\netcoreapp3.1\DatabaseLayer.AssemblyInfoInputs.cache
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\obj\Debug\netcoreapp3.1\DatabaseLayer.AssemblyInfo.cs
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\obj\Debug\netcoreapp3.1\DatabaseLayer.csproj.CoreCompileInputs.cache
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\obj\Debug\netcoreapp3.1\DatabaseLayer.dll
+E:\BookStore\BookStoreApp\BookStoreApplication\BookStoreApps\DatabaseLayer\obj\Debug\netcoreapp3.1\DatabaseLayer.pdb
